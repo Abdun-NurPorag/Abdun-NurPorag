@@ -1,2 +1,5 @@
 <itf=1>
 name<>
+<new.login>
+ahab
+<>i
